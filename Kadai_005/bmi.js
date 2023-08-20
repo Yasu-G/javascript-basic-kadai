@@ -8,7 +8,7 @@
 
 //  BMI
   let userBmi;
-  userBmi = userWeight / (userHighest * userHighest)
+  userBmi = userWeight / (userHighest * userHighest);
 
 //  Output
 console.log(userWeight);
